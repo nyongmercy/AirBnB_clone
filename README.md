@@ -277,5 +277,5 @@ $ python3 unittest -m tests/test_console.py
 ```
 
 ## Authors :black_nib:
-* **Femi Davies Afolabi** <[fermidavies](https://github.com/FermiDavies)>
-* **Abdulsalam Abdulmutalib** <[shybah1](https://github.com/shybah1)>
+* **Nyong Mercy** <[nyongmercy](https://github.com/nyongmercy)>
+* **Abdulazeez Gaji** <[Whizgee1](https://github.com/whizgee1)>
