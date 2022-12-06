@@ -73,4 +73,4 @@ What you should learn from this project:
 ---
 
 ## Author
-* *Mercy Nyong** - [nyongmercy](https://github.com/nyongmercy
+* *Mercy Nyong* - [nyongmercy](https://github.com/nyongmercy
